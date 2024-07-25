@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">streamingapp</string>
+    <string name="enter_rtsp_url">Enter Link</string>
+    <string name="start">Start</string>
+</resources>
